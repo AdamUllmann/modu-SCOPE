@@ -1,4 +1,4 @@
-# Audio Visualization Plugin
+# Modu-SCOPE
 
 This project is a JUCE-based audio plugin that provides both an oscilloscope and a spectrogram for visualizing audio waveforms and frequencies in real-time. Part of the ModuSuite plugin collection.
 
